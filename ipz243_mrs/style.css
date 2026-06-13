@@ -5,9 +5,9 @@
 }
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Verdana, sans-serif;
     background-color: #f0f2f5;
-    color: #1c1e21;
+    color: #3b3f47;
     line-height: 1.6;
     padding: 40px 20px;
 }
@@ -18,8 +18,8 @@ header {
 }
 
 header h1 {
-    font-size: 2.5rem;
-    color: #0056b3;
+    font-size: 4rem;
+    color: #203132;
     font-weight: 700;
 }
 
@@ -33,7 +33,7 @@ header h1 {
 
 .news-card {
     background: #ffffff;
-    border-radius: 12px;
+    border-radius: 17px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
     overflow: hidden;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
@@ -48,7 +48,7 @@ header h1 {
     width: 100%;
     height: auto;
     display: block;
-    border-bottom: 1px solid #e4e6eb;
+    border-bottom: 5px solid #e4e6eb;
 }
 
 .news-card h2 {
